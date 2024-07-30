@@ -9,9 +9,6 @@ Big O notation is a mathematical notation used to describe the upper bound of an
 - **Average Case:** The scenario representing the expected running time for an operation over all possible inputs.
 - **Worst Case:** The scenario where the operation takes the longest amount of time. For example, finding the target element at the last position in a linear search (O(n)).
 
-## Setup:
-Create a class `Product` with attributes for searching, such as `productId`, `productName`, and `category`.
-
 ## Implementation:
 The implementation has already been provided in the `Main.java` file in the same folder as this markdown file.
 
