@@ -1,4 +1,4 @@
-# Implementing the Strategy Pattern
+# Exercise 8: Implementing the Strategy Pattern
 
 ## Create a New Java Project:
 - **Project Name:** StrategyPatternExample
